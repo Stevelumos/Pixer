@@ -542,7 +542,9 @@ main {
   background: #00bafc;
   border-radius: 50%;
 }
-
+.frames-img {
+  width: 200px;
+}
 .frames-card-title {
   font-size: 24px;
   line-height: 130%;
